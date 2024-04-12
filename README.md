@@ -4,4 +4,4 @@ It has largely been superseded by the less verbose JSON format, but there are st
 
 XML uses tags enclosed in angle-brackets (<../>) to define elements and attributes.
 
-In this repository you can find some patterns of XML documents.
+In this code library you can find some patterns of XML documents.
