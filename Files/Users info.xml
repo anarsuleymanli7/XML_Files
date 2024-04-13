@@ -1,0 +1,16 @@
+<Users>
+  <User1 firstname="Local" lastname="Admin">
+    <ContactDetails>
+      <Contact type="mobile" telephonenumber="(+7 777) 777 7777"/>
+      <Contact type="email" address="local.admin@outlook.com"/>
+    </ContactDetails>
+  </User1>
+  <User2 firstname="Local" lastname="User">
+    <PlaceofLiving>
+      <streetaddress="Hostname"/>
+      <city="Domain"/>
+      <county="Forest"/>
+      <country="Active Directory"/>
+    </PlaceofLiving>
+  </User2>
+</Users>
