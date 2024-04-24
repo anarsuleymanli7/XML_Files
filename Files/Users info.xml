@@ -7,7 +7,7 @@
   </User1>
   <User2 firstname="Local" lastname="User">
     <PlaceofLiving>
-      <streetaddress="Hostname"/>
+      <streetaddress="Organizational Unit"/>
       <city="Domain"/>
       <county="Forest"/>
       <country="Active Directory"/>
